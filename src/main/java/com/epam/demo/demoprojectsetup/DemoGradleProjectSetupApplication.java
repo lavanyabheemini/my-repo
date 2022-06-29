@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoGradleProjectSetupApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello java you are near");
+		System.out.println("first commit");
 		SpringApplication.run(DemoGradleProjectSetupApplication.class, args);
 	}
 
